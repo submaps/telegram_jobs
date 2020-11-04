@@ -1,0 +1,16 @@
+.DS_Store
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+.mypy_cache/*
+data/*
+logs/*
+.ipynb_checkpoints
+.projectignore
+*.json
+*.ipynb
+config.ini
+persistence.pickle
+*.session
